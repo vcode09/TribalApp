@@ -4,6 +4,13 @@ Pequeña app de demostración para **Android** que consume el endpoint público 
 
 > API usada: `GET https://api.chucknorris.io/jokes/categories` → `List<String>`
 
+<img width="312" height="800" alt="Screenshot_20250814_212718" src="https://github.com/user-attachments/assets/d655666c-4750-4fd6-b423-8813d7ce19ad" />
+
+
+<img width="312" height="800" alt="Screenshot_20250814_221113" src="https://github.com/user-attachments/assets/11a73720-79b3-4621-8bbc-ab3be882f2bd" />
+
+
+
 ---
 
 ## 🎯 Objetivo de la prueba
